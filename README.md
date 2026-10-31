@@ -1,11 +1,10 @@
 <img align="left" src="https://file.garden/abd8L_ffHy-Ww3JZ/image-f986-gradientmap.pro.png">
 ㅤ
 
-
 <table>
   <tr>
   <td>
-ok let me cook
+$$\color{#e6d7f9}{\text{⌢⌢}} $$
     </td>
     </tr>
 </table>
