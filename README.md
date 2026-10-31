@@ -13,3 +13,11 @@ $$\color{#73497d}{\text{isabela}}$$ $$\color{#d8c588}{\text{𝜗℘}} $$ $$\colo
 </table>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ifjite7uotmqz5z2gs2hvhrgb4&cover_image=false&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=b16b7c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</br>
+
+<table>
+  <tr>
+  <td>
+$$\color{#73497d}{\text{links}}$$ $$\color{#d8c588}{\text{wip}} $$
+    </td>
+    </tr>
+</table>
