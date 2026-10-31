@@ -7,7 +7,7 @@
 $$\color{#73497d}{\text{isabela}}$$ $$\color{#d8c588}{\text{𝜗℘}} $$ $$\color{#b16b7c}{\text{ines}} $$ </br>
     $$\color{#e8a27b}{\text{she}} $$ $$\color{#d8c588}{\text{hyr}} $$ $$\color{#b16b7c}{\text{৯༷}} $$ $$\color{#73497d}{\text{angelthing}} $$ </br>
   $$\color{#d8c588}{\text{iayor}} $$ $$\color{#73497d}{\text{♡}} $$ $$\color{#e8a27b}{\text{always}} $$ $$\color{#b16b7c}{\text{iwc}} $$ </br>
-  infj 2w1 so271
+  $$\color{#b16b7c}{\text{infj}} $$ $$\color{#73497d}{\text{2w1}} $$ $$\color{#e8a27b}{\text{so271}} $$
     </td>
     </tr>
 </table>
