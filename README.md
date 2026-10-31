@@ -4,7 +4,7 @@
 <table>
   <tr>
   <td>
-$$\color{#73497d}{\text{isa}}$$$\color{#b16b7c}{\text{bela}}$ $$\color{#d8c588}{\text{𝜗℘}} $$ $$\color{#b16b7c}{\text{ines}} $$
+$$\color{#73497d}{\text{isabela}}$$ $$\color{#d8c588}{\text{𝜗℘}} $$ $$\color{#b16b7c}{\text{ines}} $$
     </td>
     </tr>
 </table>
