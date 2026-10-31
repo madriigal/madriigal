@@ -6,7 +6,8 @@
   <td>
 $$\color{#73497d}{\text{isabela}}$$ $$\color{#d8c588}{\text{𝜗℘}} $$ $$\color{#b16b7c}{\text{ines}} $$ </br>
     she hyr 　৯༷ angelthing </br>
-  iay**or** ♡ always iwc 
+  iayor ♡ always iwc 
+  infj so2(w1)71
     </td>
     </tr>
 </table>
