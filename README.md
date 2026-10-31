@@ -5,7 +5,7 @@
   <tr>
   <td>
 $$\color{#73497d}{\text{isabela}}$$ $$\color{#d8c588}{\text{𝜗℘}} $$ $$\color{#b16b7c}{\text{ines}} $$ </br>
-    $$\color{#e8a27b}{\text{she}} $$ $$\color{#d8c588}{\text{hyr}} $$　৯༷ $$ $$\color{#73497d}{\text{angelthing}} $$ </br>
+    $$\color{#e8a27b}{\text{she}} $$ $$\color{#d8c588}{\text{hyr}} $$　$$\color{#b16b7c}{\text{৯༷}} $$ $$\color{#73497d}{\text{angelthing}} $$ </br>
   iayor ♡ always iwc </br>
   infj so2(w1)71
     </td>
