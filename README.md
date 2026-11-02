@@ -18,9 +18,9 @@ $$\color{#73497d}{\text{isabela}}$$ $$\color{#d8c588}{\text{𝜗℘}} $$ $$\colo
   <tr>
   <td>
     <details>
-<summary>$$\color{#73497d}{\text{read}}$$ $$\color{#d8c588}{\text{4}} $$ $$\color{#e8a27b}{\text{more : :}} $$</summary>
+<summary>$$\color{#73497d}{\text{read}}$$ $$\color{#d8c588}{\text{4}} $$ $$\color{#e8a27b}{\text{links : :}} $$</summary>
 $$\color{#b16b7c}{\text{ata (wip)}} $$ </br>
-[fluffle](https://fluffle.cc/mayflower) </br>
+<a href="https://fluffle.cc/mayflower">fluffle</a> <br>
 $$\color{#73497d}{\text{prncc (wip)}}$$</br>
 $$\color{#73497d}{\text{not}}$$ $$\color{#d8c588}{\text{done}}$$ $$\color{#b16b7c}{\text{be}} $$ $$\color{#e8a27b}{\text{patient}} $$ $$\color{#73497d}{\text{ok?♡}}$$
 </details>
